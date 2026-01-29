@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Jacob
 
-<!--
-**jacob-horton/jacob-horton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Blog
 
-Here are some ideas to get you started:
+I have a technical blog at [jacobhorton.dev](https://jacobhorton.dev) - check it out to see what I've been learning recently!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Languages/Frameworks
+
+## Main Skills
+
+[![Main Languages](https://skillicons.dev/icons?i=go,rust,ts,js,py,php,dart,flutter,react,solidjs,tailwind,vite,linux,neovim,docker,gcp,git,github,postgres,mysql,sqlite&perline=8)](https://skillicons.dev)
+
+
+## Other Languages I've Used
+
+[![Languages](https://skillicons.dev/icons?i=cs,java,zig,kotlin,ocaml,elixir,haskell,htmx,c,cpp,swift&perline=8)](https://skillicons.dev)
